@@ -4,3 +4,8 @@ I created basic Taboo Game with flutter. Below you can see some pictures from ap
 ![interface_pics](interface_pics/1.png)
 ![interface_pics](interface_pics/2.png)
 ![interface_pics](interface_pics/3.png)
+
+
+Solarized dark             |  Solarized Ocean
+:-------------------------:|:-------------------------:
+![interface_pics](interface_pics/1.png)  |  ![interface_pics](interface_pics/2.png)
