@@ -21,7 +21,7 @@ Our app is a promising app for many reasons. The most important of these is that
 
 Application             |  Pictures
 :-------------------------:|:-------------------------:
-![interface_pics](interface_pics/1.png)  |  ![interface_pics](interface_pics/2.png)
-![interface_pics](interface_pics/3.png)  |  ![interface_pics](interface_pics/4.png)
-![interface_pics](interface_pics/5.png)  |  ![interface_pics](interface_pics/6.png)
-![interface_pics](interface_pics/7.png)  |  ![interface_pics](interface_pics/8.png)
+![interface_pics](interface_pics/1.png)  |  ![interface_pics](interface_pics/8.png)
+![interface_pics](interface_pics/2.png)  |  ![interface_pics](interface_pics/3.png)
+![interface_pics](interface_pics/4.png)  |  ![interface_pics](interface_pics/5.png)
+![interface_pics](interface_pics/6.png)  |  ![interface_pics](interface_pics/7.png)
